@@ -5,3 +5,7 @@ getting ready to commit
 i am happy, i did a great job
 promise you are amazing
 i have created a branch
+the code is save on cloud 
+cloud is a remote machine which is more better then local computer
+working on this git to resolve the issues.
+i will resolve the issue
